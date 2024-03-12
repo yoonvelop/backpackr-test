@@ -29,4 +29,15 @@ export const cardsData: CardItem[] = [
     crossText: 'Cross Out',
     highlight: 'Highlight',
   },
+  // 가로형
+  {
+    imageUrl: '/images/image-sample.png',
+    title:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec porttitor leo, et sodales dolor. Suspendisse iaculis bibendum hendrerit. Morbi vitae blandit purus. Curabitur vitae felis leo. Fusce massa mi, mollis ut dolor ullamcorper, pretium gravida magna. Aenean sed ullamcorper magna. ',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec porttitor leo, et sodales dolor. Suspendisse iaculis bibendum hendrerit. Morbi vitae blandit purus. Curabitur vitae felis leo. Fusce massa mi, mollis ut dolor ullamcorper, pretium gravida magna. Aenean sed ullamcorper magna. ',
+    rating: 4,
+    name: 'John Doe',
+    isRow: true,
+  },
 ];

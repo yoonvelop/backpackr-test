@@ -16,8 +16,10 @@ const CardList: React.FC<CardProps> = ({ cards }) => {
           title={card.title}
           crossText={card.crossText}
           highlight={card.highlight}
+          name={card.name}
           description={card.description}
           rating={card.rating}
+          isRow={card.isRow}
         />
       ))}
     </div>
