@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  margin: 2rem 1rem 10rem;
+}
+
+h1 {
+  margin: 2rem 1rem;
+}
