@@ -1,0 +1,16 @@
+.card-ratings {
+  display: flex;
+}
+
+.rating {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: lightgray;
+  margin-right: 0.25em;
+}
+
+.rating.filled {
+  background-color: gold;
+}
