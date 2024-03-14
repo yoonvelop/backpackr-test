@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/backpackr-test/static/css/main.2f0087a2.css",
-    "main.js": "/backpackr-test/static/js/main.29a3449b.js",
+    "main.js": "/backpackr-test/static/js/main.aa355c5a.js",
     "index.html": "/backpackr-test/index.html",
     "main.2f0087a2.css.map": "/backpackr-test/static/css/main.2f0087a2.css.map",
-    "main.29a3449b.js.map": "/backpackr-test/static/js/main.29a3449b.js.map"
+    "main.aa355c5a.js.map": "/backpackr-test/static/js/main.aa355c5a.js.map"
   },
   "entrypoints": [
     "static/css/main.2f0087a2.css",
-    "static/js/main.29a3449b.js"
+    "static/js/main.aa355c5a.js"
   ]
 }
